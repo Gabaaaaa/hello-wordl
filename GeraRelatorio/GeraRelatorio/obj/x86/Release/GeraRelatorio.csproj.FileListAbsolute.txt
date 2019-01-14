@@ -1,0 +1,14 @@
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\bin\x86\Release\Localidades.txt
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\bin\x86\Release\GeraRelatorio.exe.config
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\bin\x86\Release\GeraRelatorio.exe
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\bin\x86\Release\GeraRelatorio.pdb
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\bin\x86\Release\itextsharp.dll
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.frmFormularioPrincipal.resources
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.frmGrid.resources
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.Properties.Resources.resources
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.csproj.GenerateResource.cache
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.csproj.CopyComplete
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.exe
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.pdb
+C:\Users\br07001161\Desktop\Teste Instalador\GeraRelatorio_Bosch\GeraRelatorio\GeraRelatorio\obj\x86\Release\GeraRelatorio.csprojAssemblyReference.cache
